@@ -6,7 +6,7 @@
 
 | SOFT SKILLS |  |  |
 | ------------- | ------------- | ------------ |
-| :speech_balloon: Communication | :thought_balloon: Critical thinking | :cartwheeling: Adaptability |
+| :speech_balloon: Communication | :bulb: Critical thinking | :cartwheeling: Adaptability |
 | :basketball: Teamwork | :twisted_rightwards_arrows: Decision-making | :handshake: Conflict management |
 | :brain: Problem-solving | :raised_hands: Stress management | :ear: Openness to criticism |
 
