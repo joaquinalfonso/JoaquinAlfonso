@@ -1,4 +1,3 @@
-### JOAQUÍN ALFONSO GONZÁLEZ
 ## TECH LEAD MANAGER & SENIOR SOFTWARE ENGINEER
 
 - :man_office_worker: Online CV: https://joaquinalfonso.netlify.app/
