@@ -1,4 +1,15 @@
-### Hi there 👋
+### JOAQUÍN ALFONSO GONZÁLEZ
+## TECH LEAD MANAGER & SENIOR SOFTWARE ENGINEER
+
+- :man_office_worker: Online CV: https://joaquinalfonso.netlify.app/
+- :email: Email: joaquinalfonsogonzalez@gmail.com
+- :earth_africa: Spain, Remote
+
+| SOFT SKILLS |  |  |
+| ------------- | ------------- | ------------ |
+| Communication | Critical thinking | Adaptability |
+| Teamwork | Decision-making | Conflict management |
+| Problem-solving | Stress management | Openness to criticism |
 
 <!--
 **joaquinalfonso/JoaquinAlfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
